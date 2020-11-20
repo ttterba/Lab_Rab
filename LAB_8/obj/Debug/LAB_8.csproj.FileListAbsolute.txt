@@ -1,0 +1,7 @@
+D:\2 курс\Технологии программирования\Лабы\Лаба_8\LAB_8\bin\Debug\LAB_8.exe.config
+D:\2 курс\Технологии программирования\Лабы\Лаба_8\LAB_8\bin\Debug\LAB_8.exe
+D:\2 курс\Технологии программирования\Лабы\Лаба_8\LAB_8\bin\Debug\LAB_8.pdb
+D:\2 курс\Технологии программирования\Лабы\Лаба_8\LAB_8\obj\Debug\LAB_8.csprojAssemblyReference.cache
+D:\2 курс\Технологии программирования\Лабы\Лаба_8\LAB_8\obj\Debug\LAB_8.csproj.CoreCompileInputs.cache
+D:\2 курс\Технологии программирования\Лабы\Лаба_8\LAB_8\obj\Debug\LAB_8.exe
+D:\2 курс\Технологии программирования\Лабы\Лаба_8\LAB_8\obj\Debug\LAB_8.pdb
