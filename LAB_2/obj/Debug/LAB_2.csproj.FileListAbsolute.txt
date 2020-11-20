@@ -1,0 +1,7 @@
+D:\2 курс\Технологии программирования\Лабы\Лаба_2\LAB_2\bin\Debug\LAB_2.exe.config
+D:\2 курс\Технологии программирования\Лабы\Лаба_2\LAB_2\bin\Debug\LAB_2.exe
+D:\2 курс\Технологии программирования\Лабы\Лаба_2\LAB_2\bin\Debug\LAB_2.pdb
+D:\2 курс\Технологии программирования\Лабы\Лаба_2\LAB_2\obj\Debug\LAB_2.csprojAssemblyReference.cache
+D:\2 курс\Технологии программирования\Лабы\Лаба_2\LAB_2\obj\Debug\LAB_2.csproj.CoreCompileInputs.cache
+D:\2 курс\Технологии программирования\Лабы\Лаба_2\LAB_2\obj\Debug\LAB_2.exe
+D:\2 курс\Технологии программирования\Лабы\Лаба_2\LAB_2\obj\Debug\LAB_2.pdb
