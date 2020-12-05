@@ -1,0 +1,10 @@
+D:\2 курс\Технологии программирования\Лабы\Лаба_10\LAB__10\obj\Debug\LAB__10.csproj.CoreCompileInputs.cache
+D:\2 курс\Технологии программирования\Лабы\Лаба_10\LAB__10\bin\Debug\LAB__10.exe.config
+D:\2 курс\Технологии программирования\Лабы\Лаба_10\LAB__10\bin\Debug\LAB__10.exe
+D:\2 курс\Технологии программирования\Лабы\Лаба_10\LAB__10\bin\Debug\LAB__10.pdb
+D:\2 курс\Технологии программирования\Лабы\Лаба_10\LAB__10\bin\Debug\MatrixLibrary.dll
+D:\2 курс\Технологии программирования\Лабы\Лаба_10\LAB__10\bin\Debug\MatrixLibrary.pdb
+D:\2 курс\Технологии программирования\Лабы\Лаба_10\LAB__10\obj\Debug\LAB__10.csprojAssemblyReference.cache
+D:\2 курс\Технологии программирования\Лабы\Лаба_10\LAB__10\obj\Debug\LAB__10.csproj.CopyComplete
+D:\2 курс\Технологии программирования\Лабы\Лаба_10\LAB__10\obj\Debug\LAB__10.exe
+D:\2 курс\Технологии программирования\Лабы\Лаба_10\LAB__10\obj\Debug\LAB__10.pdb
