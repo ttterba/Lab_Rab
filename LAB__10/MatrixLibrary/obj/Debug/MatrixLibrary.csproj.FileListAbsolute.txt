@@ -1,0 +1,5 @@
+D:\2 курс\Технологии программирования\Лабы\Лаба_10\LAB__10\MatrixLibrary\bin\Debug\MatrixLibrary.dll
+D:\2 курс\Технологии программирования\Лабы\Лаба_10\LAB__10\MatrixLibrary\bin\Debug\MatrixLibrary.pdb
+D:\2 курс\Технологии программирования\Лабы\Лаба_10\LAB__10\MatrixLibrary\obj\Debug\MatrixLibrary.csproj.CoreCompileInputs.cache
+D:\2 курс\Технологии программирования\Лабы\Лаба_10\LAB__10\MatrixLibrary\obj\Debug\MatrixLibrary.dll
+D:\2 курс\Технологии программирования\Лабы\Лаба_10\LAB__10\MatrixLibrary\obj\Debug\MatrixLibrary.pdb
