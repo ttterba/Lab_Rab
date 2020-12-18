@@ -1,0 +1,7 @@
+C:\NCFU\2-й курс\Технологии программирования\Лабы\Лаба_11\LAB__11\bin\Debug\LAB__11.exe.config
+C:\NCFU\2-й курс\Технологии программирования\Лабы\Лаба_11\LAB__11\bin\Debug\LAB__11.exe
+C:\NCFU\2-й курс\Технологии программирования\Лабы\Лаба_11\LAB__11\bin\Debug\LAB__11.pdb
+C:\NCFU\2-й курс\Технологии программирования\Лабы\Лаба_11\LAB__11\obj\Debug\LAB__11.csprojAssemblyReference.cache
+C:\NCFU\2-й курс\Технологии программирования\Лабы\Лаба_11\LAB__11\obj\Debug\LAB__11.csproj.CoreCompileInputs.cache
+C:\NCFU\2-й курс\Технологии программирования\Лабы\Лаба_11\LAB__11\obj\Debug\LAB__11.exe
+C:\NCFU\2-й курс\Технологии программирования\Лабы\Лаба_11\LAB__11\obj\Debug\LAB__11.pdb
