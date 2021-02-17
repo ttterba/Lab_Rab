@@ -1,0 +1,10 @@
+D:\Технологии программирования\Лабы\Лаба_14\LAB__14\bin\Debug\LAB__14.exe.config
+D:\Технологии программирования\Лабы\Лаба_14\LAB__14\bin\Debug\LAB__14.exe
+D:\Технологии программирования\Лабы\Лаба_14\LAB__14\bin\Debug\LAB__14.pdb
+D:\Технологии программирования\Лабы\Лаба_14\LAB__14\obj\Debug\LAB__14.csprojAssemblyReference.cache
+D:\Технологии программирования\Лабы\Лаба_14\LAB__14\obj\Debug\LAB__14.Properties.Resources.resources
+D:\Технологии программирования\Лабы\Лаба_14\LAB__14\obj\Debug\LAB__14.csproj.GenerateResource.cache
+D:\Технологии программирования\Лабы\Лаба_14\LAB__14\obj\Debug\LAB__14.csproj.CoreCompileInputs.cache
+D:\Технологии программирования\Лабы\Лаба_14\LAB__14\obj\Debug\LAB__14.exe
+D:\Технологии программирования\Лабы\Лаба_14\LAB__14\obj\Debug\LAB__14.pdb
+D:\Технологии программирования\Лабы\Лаба_14\LAB__14\obj\Debug\LAB__14.Form1.resources
