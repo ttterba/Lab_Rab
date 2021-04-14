@@ -1,0 +1,15 @@
+E:\Технологии программирования\Лабы\Лаба_19\LAB__19\bin\Debug\LAB__19.exe.config
+E:\Технологии программирования\Лабы\Лаба_19\LAB__19\bin\Debug\LAB__19.exe
+E:\Технологии программирования\Лабы\Лаба_19\LAB__19\bin\Debug\LAB__19.pdb
+E:\Технологии программирования\Лабы\Лаба_19\LAB__19\obj\Debug\LAB__19.csprojAssemblyReference.cache
+E:\Технологии программирования\Лабы\Лаба_19\LAB__19\obj\Debug\MainWindow.g.cs
+E:\Технологии программирования\Лабы\Лаба_19\LAB__19\obj\Debug\App.g.cs
+E:\Технологии программирования\Лабы\Лаба_19\LAB__19\obj\Debug\LAB__19_MarkupCompile.cache
+E:\Технологии программирования\Лабы\Лаба_19\LAB__19\obj\Debug\LAB__19_MarkupCompile.lref
+E:\Технологии программирования\Лабы\Лаба_19\LAB__19\obj\Debug\MainWindow.baml
+E:\Технологии программирования\Лабы\Лаба_19\LAB__19\obj\Debug\LAB__19.g.resources
+E:\Технологии программирования\Лабы\Лаба_19\LAB__19\obj\Debug\LAB__19.Properties.Resources.resources
+E:\Технологии программирования\Лабы\Лаба_19\LAB__19\obj\Debug\LAB__19.csproj.GenerateResource.cache
+E:\Технологии программирования\Лабы\Лаба_19\LAB__19\obj\Debug\LAB__19.csproj.CoreCompileInputs.cache
+E:\Технологии программирования\Лабы\Лаба_19\LAB__19\obj\Debug\LAB__19.exe
+E:\Технологии программирования\Лабы\Лаба_19\LAB__19\obj\Debug\LAB__19.pdb
